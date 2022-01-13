@@ -24,8 +24,8 @@ Module 7
   * employees.csv
   * salaries.csv
   * titles.csv
-  * Software:
-
-* SQL
+* Software:
+  * SQL
   * PostgreSQL
   * pgAdmin
+* Employee_Challenge_starter_code.sql
