@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-Module 7 
+
 ### Overview
 The purpose of this project was to determine number of employees retiring from Pewlett Hackard and identify them by their name and title and also determine which employees are eligible to participate in a mentorship program.
 
